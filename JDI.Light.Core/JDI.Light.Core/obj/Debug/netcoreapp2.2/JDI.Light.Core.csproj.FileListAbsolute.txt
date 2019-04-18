@@ -1,0 +1,17 @@
+C:\JDI.Light.Core\JDI.Light.Core\JDI.Light.Core\bin\Debug\netcoreapp2.2\JDI.Light.Core.deps.json
+C:\JDI.Light.Core\JDI.Light.Core\JDI.Light.Core\bin\Debug\netcoreapp2.2\JDI.Light.Core.dll
+C:\JDI.Light.Core\JDI.Light.Core\JDI.Light.Core\bin\Debug\netcoreapp2.2\JDI.Light.Core.pdb
+C:\JDI.Light.Core\JDI.Light.Core\JDI.Light.Core\obj\Debug\netcoreapp2.2\JDI.Light.Core.csprojAssemblyReference.cache
+C:\JDI.Light.Core\JDI.Light.Core\JDI.Light.Core\obj\Debug\netcoreapp2.2\JDI.Light.Core.csproj.CoreCompileInputs.cache
+C:\JDI.Light.Core\JDI.Light.Core\JDI.Light.Core\obj\Debug\netcoreapp2.2\JDI.Light.Core.AssemblyInfoInputs.cache
+C:\JDI.Light.Core\JDI.Light.Core\JDI.Light.Core\obj\Debug\netcoreapp2.2\JDI.Light.Core.AssemblyInfo.cs
+C:\JDI.Light.Core\JDI.Light.Core\JDI.Light.Core\obj\Debug\netcoreapp2.2\JDI.Light.Core.dll
+C:\JDI.Light.Core\JDI.Light.Core\JDI.Light.Core\obj\Debug\netcoreapp2.2\JDI.Light.Core.pdb
+C:\JDICore\JDI.Light.Core\JDI.Light.Core\JDI.Light.Core\bin\Debug\netcoreapp2.2\JDI.Light.Core.deps.json
+C:\JDICore\JDI.Light.Core\JDI.Light.Core\JDI.Light.Core\bin\Debug\netcoreapp2.2\JDI.Light.Core.dll
+C:\JDICore\JDI.Light.Core\JDI.Light.Core\JDI.Light.Core\bin\Debug\netcoreapp2.2\JDI.Light.Core.pdb
+C:\JDICore\JDI.Light.Core\JDI.Light.Core\JDI.Light.Core\obj\Debug\netcoreapp2.2\JDI.Light.Core.csproj.CoreCompileInputs.cache
+C:\JDICore\JDI.Light.Core\JDI.Light.Core\JDI.Light.Core\obj\Debug\netcoreapp2.2\JDI.Light.Core.AssemblyInfoInputs.cache
+C:\JDICore\JDI.Light.Core\JDI.Light.Core\JDI.Light.Core\obj\Debug\netcoreapp2.2\JDI.Light.Core.AssemblyInfo.cs
+C:\JDICore\JDI.Light.Core\JDI.Light.Core\JDI.Light.Core\obj\Debug\netcoreapp2.2\JDI.Light.Core.dll
+C:\JDICore\JDI.Light.Core\JDI.Light.Core\JDI.Light.Core\obj\Debug\netcoreapp2.2\JDI.Light.Core.pdb
